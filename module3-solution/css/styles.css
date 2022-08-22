@@ -1,1 +1,51 @@
+* {
+    box-sizing: border-box;
+}
 
+#nav-list > li {
+    text-align: center;
+}
+
+div section {
+    margin: 15px;
+    padding: 15px;
+}
+#section-1{
+    background-color: #6EC3C1;
+}
+
+#section-2 {
+    background-color: #DEB3AD;
+}
+
+#section-3 {
+    background-color: #F86F15;
+}
+
+.h3, h3 {
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+
+#header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
+}
+a {
+    color: #000000;
+    text-decoration: none;
+}
+.navbar-default {
+    background-color: #6A6C6D;
+    border-color: #000000;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+.navbar-default .navbar-toggle {
+    border-color: #000000;
+}
+.navbar-toggle {
+    border: 2px solid;
+}
